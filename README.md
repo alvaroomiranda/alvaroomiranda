@@ -7,8 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroomiranda&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-PORTUGOL" height="30" width="40" src="https://www.google.com/search?q=%C3%ADcone+portugol+github&rlz=1C1GCEA_enBR1016BR1016&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjKjqulzcv6AhUMSzABHRNDBjoQ_AUoAXoECAEQAw&biw=1440&bih=732&dpr=1#imgrc=4NSM7UQfCWQgQM
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   </div>
   
   ##
